@@ -8,9 +8,9 @@ setup(
     description="HelloFresh UMKC HackRoo Spring 2021 Package",
     license='MIT',
     long_description_content_type="text/markdown",
-    url="https://github.com/hellofreshdevtests/rajun-data-engineering-test/tree/rajun-data-engineering-submission",
+    url="https://github.com/rnekadi/umkc-hackroo-hellofresh-2021",
     project_urls={
-        "Project Github": "https://github.com/hellofreshdevtests/rajun-data-engineering-test/tree/rajun-data-engineering-submission",
+        "Project Github": "https://github.com/rnekadi/umkc-hackroo-hellofresh-2021",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

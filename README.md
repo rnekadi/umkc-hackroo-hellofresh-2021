@@ -5,8 +5,6 @@ The test is designed to assess key competencies required in your role as a data 
 
 Please submit your answers in a different branch and create a pull request. Please do not merge your own pull request.
 
-_Note: While we love open source here at HelloFresh, please do not create a public repo with your test in! This challenge is only shared with people interviewing, and for obvious reasons we'd like it to remain this way._
-
 
 # HelloFresh
 At HelloFresh, our mission is to change the way people eat - forever. From our 2011 founding in Europe’s vibrant tech hub Berlin, we’ve become the global market leader in the meal kit sector and inspire millions of energized home cooks across the globe every week.
