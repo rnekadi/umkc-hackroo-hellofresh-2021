@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: raju-umkc-hellofresh-2021
+Version: 0.0.1
+Summary: HelloFresh UMKC HackRoo Spring 2021 Package
+Home-page: https://github.com/hellofreshdevtests/rajun-data-engineering-test/tree/rajun-data-engineering-submission
+Author: Raju Nekadi
+Author-email: raju.nekadi08@gmail.com
+License: MIT
+Project-URL: Project Github, https://github.com/hellofreshdevtests/rajun-data-engineering-test/tree/rajun-data-engineering-submission
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
