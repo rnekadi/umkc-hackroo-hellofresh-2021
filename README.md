@@ -1,7 +1,6 @@
 # HelloFresh University Missouri Hackathon Excercise Spring 2021 
 
-Thank you for your interest in joining HelloFresh! As part of our selection process, all of our candidates must take the following test.
-The test is designed to assess key competencies required in your role as a data engineer at HelloFresh.
+Thank you for your interest in joining HelloFresh UMKC Hackathon Challenge !
 
 Please submit your answers in a different branch and create a pull request. Please do not merge your own pull request.
 
